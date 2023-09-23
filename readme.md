@@ -1,6 +1,6 @@
 # Who's mattyatea?
 mattyaski.coの運用や、<br>
-MiColor.linkのサーバー保守をしています。<br>
+PrisMisskeyのサーバー保守をしています。<br>
 MisskeyのRepositoryによくIssueを出します
 
 # Links
