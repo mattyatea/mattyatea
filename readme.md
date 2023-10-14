@@ -9,8 +9,8 @@ MisskeyのRepositoryによくIssueを出します
 [![Youtube](https://img.shields.io/badge/mattyatea-4c4c4c?logo=youtube&label=Youtube&labelColor=%23FF0000)](https://www.youtube.com/@mattyatea)<br>
 [![mattyaski](https://img.shields.io/badge/%40mattyatea%40mattyaski.co-4c4c4c?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03
 )](https://mattyaski.co/@mattyatea)<br>
-[![micolor](https://img.shields.io/badge/%40mattyatea%40micolor.link-4c4c4c?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03
-)](https://micolor.link/@mattyatea)<br>
+[![PrisMisskey](https://img.shields.io/badge/%40mattyatea%40micolor.link-4c4c4c?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03
+)](https://PrisMisskey.space/@mattyatea)<br>
 
 
 # OS Used
