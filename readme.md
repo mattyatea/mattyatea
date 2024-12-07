@@ -1,8 +1,3 @@
-# Who's mattyatea?
-mattyaski.coの運用や、<br>
-PrisMisskeyのサーバー保守をしています。<br>
-Misskey-devのmemberです
-
 # Links
 ![Discord](https://img.shields.io/badge/mattyatea-4c4c4c?logo=discord&logoColor=ffffff&label=Discord&labelColor=5865F2)<br>
 [![Steam](https://img.shields.io/badge/mattyatea-4c4c4c?logo=steam&logoColor=ffffff&label=Steam&labelColor=000000)](https://steamcommunity.com/id/mattyatea/)<br>
