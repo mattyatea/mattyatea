@@ -23,9 +23,9 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)](https://www.notion.so/)
 [![Webstorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=fff)](https://www.jetbrains.com/ja-jp/webstorm/)
 
-# Github Stats
+# GitHub Stats
 [![mattyatea's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattyatea)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattyatea&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattyatea)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-# Github Profile Trophy
+# GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=mattyatea)](https://github.com/ryo-ma/github-profile-trophy)
