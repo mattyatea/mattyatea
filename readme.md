@@ -4,7 +4,7 @@
 # Links
 ![Discord](https://img.shields.io/badge/mattyatea-4c4c4c?logo=discord&logoColor=ffffff&label=Discord&labelColor=5865F2)<br>
 [![Steam](https://img.shields.io/badge/mattyatea-4c4c4c?logo=steam&logoColor=ffffff&label=Steam&labelColor=000000)](https://steamcommunity.com/id/mattyatea/)<br>
-[![Youtube](https://img.shields.io/badge/mattyatea-4c4c4c?logo=youtube&label=Youtube&labelColor=%23FF0000)](https://www.youtube.com/@mattyatea)<br>
+[![YouTube](https://img.shields.io/badge/mattyatea-4c4c4c?logo=youtube&label=Youtube&labelColor=%23FF0000)](https://www.youtube.com/@mattyatea)<br>
 [![mattyaski](https://img.shields.io/badge/%40mattyatea%40mattyaski.co-4c4c4c?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03
 )](https://mattyaski.co/@mattyatea)<br>
 [![PrisMisskey](https://img.shields.io/badge/%40mattyatea%40PrisMisskey.space-4c4c4c?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03
