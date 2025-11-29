@@ -41,18 +41,6 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattyatea&show_icons=true&theme=transparent" height="160" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattyatea&layout=donut&theme=transparent" height="160" />
-</a>
-
-<br><br>
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattyatea&theme=transparent" />
 </a>
