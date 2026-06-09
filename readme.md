@@ -1,8 +1,5 @@
   # まっちゃてぃー🍵
 
-  仕事ではGitHub以外のプラットフォームを使用しているため、
-  ここでは主に個人開発の成果をまとめています。
-
   ## 🧠  Languages
   <p align="left">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" title="TypeScript: 型 安 全 な JavaScript拡 張 言 語 " />
