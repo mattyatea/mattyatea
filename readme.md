@@ -43,10 +43,7 @@
   </p>
 
   ## 📊  GitHub Stats
-
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattyatea&theme=transparent" />
-  </a>
+  <img src="https://raw.githubusercontent.com/mattyatea/mattyatea/refs/heads/main/profile-3d-contrib/profile-night-green.svg" />
 
   <p align="left">
     <img src="https://img.shields.io/badge/Contributions_(2025)-2279-brightgreen?style=flat" />
