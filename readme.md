@@ -43,7 +43,7 @@
   </p>
 
   ## 📊  GitHub Stats
-  <img src="https://raw.githubusercontent.com/mattyatea/mattyatea/refs/heads/main/profile-3d-contrib/profile-night-green.svg" />
+  <img src="https://raw.githubusercontent.com/mattyatea/mattyatea/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
   <p align="left">
     <img src="https://img.shields.io/badge/Contributions_(2025)-2279-brightgreen?style=flat" />
